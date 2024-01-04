@@ -27,6 +27,8 @@ check_driver('directory/to/store/chromedriver')
 ```
 ![webdriver_auto_update_demo](webdriver_auto_update_demo.png)
 
+** Not working for Chromium above Version 107.0.5304.122 (Official Build, ungoogled-chromium) (64-bit)
+
 
 ## Note
 - The objective of this program is to reduce redundancy of searching and downloading the updated version of chrome driver to the OpenSource community.
